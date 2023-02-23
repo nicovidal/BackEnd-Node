@@ -4,6 +4,8 @@ npm i nodemon
 
  npm i dotenv  
 
- pm i express-validator 
+ npm i express-validator 
 
  npm i mongoose
+
+ npm i bcryptjs
