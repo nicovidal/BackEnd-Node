@@ -19,6 +19,7 @@ app.use(express.json())
 
 //rutas
 app.use('/api/auth',require('./routes/auth'))
+app.use('/api/events',require('./routes/events'))
 //TODO:Auth//crear.login.renew
 //todo lo que vaya a exportar , estara en esa ruta
 
